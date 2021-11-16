@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019554328431",
+    "project_id": "dimand-86cf7",
+    "storage_bucket": "dimand-86cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019554328431:android:be491d44b6a82d64e8829a",
+        "android_client_info": {
+          "package_name": "com.dimand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019554328431-ga4g04dv4esns8cljrcvraqtjq03pnso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dimand",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1019554328431-90r8be1ntde50avcor2s7letf9fvnjns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArESHIW9obVg_DOO3QnF5WiNNFNjHUhdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019554328431-90r8be1ntde50avcor2s7letf9fvnjns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

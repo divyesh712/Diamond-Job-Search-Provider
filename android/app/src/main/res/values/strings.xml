@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dimand</string>
+    <string name="facebook_app_id">509709053486844</string>
+    <string name="fb_login_protocol_scheme">fb509709053486844</string>
+</resources>
